@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 2a0097bfe1c5d41419f841484b097925
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: roof_corner_4
+    100004: roof_corner_5
+    100006: roof_corner_6
+    100008: roof_corner_70
+    100010: roof_corner_71
+    100012: roof_corner_72
+    100014: roof_corner_73
+    100016: wall_straight_61
+    100018: wall_straight_62
+    100020: wall_straight_65
+    100022: wall_straight_66
+    100024: wall_window_53
+    100026: wall_window_54
+    100028: wall_window_55
+    100030: wall_window_56
+    100032: wall_window_59
+    400000: //RootNode
+    400002: roof_corner_4
+    400004: roof_corner_5
+    400006: roof_corner_6
+    400008: roof_corner_70
+    400010: roof_corner_71
+    400012: roof_corner_72
+    400014: roof_corner_73
+    400016: wall_straight_61
+    400018: wall_straight_62
+    400020: wall_straight_65
+    400022: wall_straight_66
+    400024: wall_window_53
+    400026: wall_window_54
+    400028: wall_window_55
+    400030: wall_window_56
+    400032: wall_window_59
+    2100000: stone
+    2100002: lightStone
+    2100004: glass
+    2300000: roof_corner_4
+    2300002: roof_corner_5
+    2300004: roof_corner_6
+    2300006: roof_corner_70
+    2300008: roof_corner_71
+    2300010: roof_corner_72
+    2300012: roof_corner_73
+    2300014: wall_straight_61
+    2300016: wall_straight_62
+    2300018: wall_straight_65
+    2300020: wall_straight_66
+    2300022: wall_window_53
+    2300024: wall_window_54
+    2300026: wall_window_55
+    2300028: wall_window_56
+    2300030: wall_window_59
+    3300000: roof_corner_4
+    3300002: roof_corner_5
+    3300004: roof_corner_6
+    3300006: roof_corner_70
+    3300008: roof_corner_71
+    3300010: roof_corner_72
+    3300012: roof_corner_73
+    3300014: wall_straight_61
+    3300016: wall_straight_62
+    3300018: wall_straight_65
+    3300020: wall_straight_66
+    3300022: wall_window_53
+    3300024: wall_window_54
+    3300026: wall_window_55
+    3300028: wall_window_56
+    3300030: wall_window_59
+    4300000: wall_window_53
+    4300002: wall_window_54
+    4300004: wall_window_55
+    4300006: wall_window_56
+    4300008: wall_window_59
+    4300010: wall_straight_61
+    4300012: wall_straight_62
+    4300014: wall_straight_65
+    4300016: wall_straight_66
+    4300018: roof_corner_70
+    4300020: roof_corner_71
+    4300022: roof_corner_72
+    4300024: roof_corner_73
+    4300026: roof_corner_4
+    4300028: roof_corner_5
+    4300030: roof_corner_6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d30b1ae30e3d24542884d9091f8c6b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightStone
+    second: {fileID: 2100000, guid: 88ba7cd8a39e41f4ba984591d7e24c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone
+    second: {fileID: 2100000, guid: e2967f4ac755a7f4398809cdb254a6ec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
